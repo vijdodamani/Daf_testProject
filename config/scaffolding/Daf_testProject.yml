@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Daf_testProject
+  gitServerName: test
+  gitUrl: https://github.com/vijdodamani
+  gitUsername: vijdodamani
+  gitBranch: main
